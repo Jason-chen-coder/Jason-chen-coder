@@ -1,4 +1,3 @@
-### Hi there 👋
 ### Hi there, I'm Jasonchen 👋
 
 ![Jasonchen's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder)
