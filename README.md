@@ -1,6 +1,11 @@
 ### Hi there, I'm Jasonchen 👋
 
-![Jasonchen's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder)
+[![Page Views Count](https://badges.toozhao.com/badges/01F48RT1JGJPES95GK8TMAVR6G/green.svg)](https://badges.toozhao.com/stats/01F48RT1JGJPES95GK8TMAVR6G "Get your own page views count badge on badges.toozhao.com")
+
+![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=vue)
+
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder)](https://github.com/anuraghazra/github-readme-stats)
+
 
 <!--
 **Jason-chen-coder/Jason-chen-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
