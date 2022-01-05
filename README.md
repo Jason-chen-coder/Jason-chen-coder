@@ -10,9 +10,9 @@
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=radical)](https://blog.csdn.net/weixin_39085822) 
 
 ### Top Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=Mxgraph-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=Mxgraph-EasyFlowEditor&theme=radical)(https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor)
 
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=D3-EasyFlowRender&theme=radical)](https://github.com/Jason-chen-coder/D3-EasyFlowRender)
+![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=D3-EasyFlowRender&theme=radical)(https://github.com/Jason-chen-coder/D3-EasyFlowRender)
 
 <!--
 **Jason-chen-coder/Jason-chen-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
