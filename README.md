@@ -14,6 +14,9 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=D3-EasyFlowRender&theme=radical)](https://github.com/Jason-chen-coder/D3-EasyFlowRender)
 
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=JsPlumb-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor)
+
+
 <!--
 **Jason-chen-coder/Jason-chen-coder** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
