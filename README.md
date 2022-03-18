@@ -6,9 +6,9 @@
 ### My Stats:
 ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)
 
-### Top Langs:
+<!-- ### Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=radical)](https://blog.csdn.net/weixin_39085822) 
-
+ -->
 <!-- ### Top Projects:
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=Mxgraph-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor)
 
