@@ -40,7 +40,7 @@
 <!-- prettier-ignore-end -->
 
 <!-- tools:end -->
-
+![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
 
 <!-- ### Top Langs:
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=radical)](https://blog.csdn.net/weixin_39085822) 
