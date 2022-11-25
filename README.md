@@ -52,6 +52,6 @@
 
 [![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=JsPlumb-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor)
  -->
-### 📈 Activity Graph：
+<!-- ### 📈 Activity Graph：
 
-![](https://activity-graph.herokuapp.com/graph?username=Jason-chen-coder&theme=react-dark)
+![](https://activity-graph.herokuapp.com/graph?username=Jason-chen-coder&theme=react-dark) -->
