@@ -44,23 +44,7 @@
 #### Stats
 [![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
  
-![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
-
-
-<!-- ### Top Langs:
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=radical)](https://blog.csdn.net/weixin_39085822) 
- -->
-<!-- ### Top Projects:
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=Mxgraph-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=D3-EasyFlowRender&theme=radical)](https://github.com/Jason-chen-coder/D3-EasyFlowRender)
-
-[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=JsPlumb-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor)
- -->
-<!-- ### 📈 Activity Graph：
-
-![](https://activity-graph.herokuapp.com/graph?username=Jason-chen-coder&theme=react-dark) -->
-#### Projects
+ #### Projects
 <p>下面是我在前端工作路上写的一些个人项目和DEMO。</p>
 <table>
   <thead align="center">
@@ -110,3 +94,21 @@
     </tr>
   </tbody>
 </table>
+ 
+![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
+
+
+<!-- ### Top Langs:
+[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=radical)](https://blog.csdn.net/weixin_39085822) 
+ -->
+<!-- ### Top Projects:
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=Mxgraph-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=D3-EasyFlowRender&theme=radical)](https://github.com/Jason-chen-coder/D3-EasyFlowRender)
+
+[![Readme Card](https://github-readme-stats.vercel.app/api/pin/?username=Jason-chen-coder&repo=JsPlumb-EasyFlowEditor&theme=radical)](https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor)
+ -->
+<!-- ### 📈 Activity Graph：
+
+![](https://activity-graph.herokuapp.com/graph?username=Jason-chen-coder&theme=react-dark) -->
+
