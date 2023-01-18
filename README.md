@@ -39,12 +39,12 @@
 <code><img height="20" src="https://vitejs.dev/logo.svg" alt="vite" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
-
 <!-- tools:end -->
-![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
 
 #### Stats
 [![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
+
+![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
 
 
 <!-- ### Top Langs:
