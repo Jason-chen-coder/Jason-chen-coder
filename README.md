@@ -1,11 +1,10 @@
 ### Hi there, I'm Jasonchen 👋
 
-### My Stats:
-![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)(https://github.com/Jason-chen-coder)
-<!-- [![Page Views Count](https://badges.toozhao.com/badges/01GQ18FM5WGK45RGXGF17ATY6Q/green.svg)](https://badges.toozhao.com/stats/01GQ18FM5WGK45RGXGF17ATY6Q "Get your own page views count badge on badges.toozhao.com") -->
-<!-- ![](https://visitor-badge.glitch.me/badge?page_id=Jason-chen-coder) -->
-
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=6DDCCF&background=FF52BC00&width=610&lines=coding+as+art.+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
 <img height="20" src="https://badges.toozhao.com/badges/01FPBS78QPRZFKQGN6WNXJK8FH/green.svg" alt="css" />
+
+<!-- ### My Stats: -->
+<!-- ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)(https://github.com/Jason-chen-coder) -->
 
 #### Languages
 <!-- languages:start -->
