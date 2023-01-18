@@ -42,8 +42,8 @@
 <!-- tools:end -->
 
 #### Stats
-[![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
-
+[![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
+ 
 ![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
 
 
