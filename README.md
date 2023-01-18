@@ -1,7 +1,7 @@
 ### Hi there, I'm Jasonchen 👋
 
 ### My Stats:
-![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)
+<!-- ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical) -->
 <!-- [![Page Views Count](https://badges.toozhao.com/badges/01GQ18FM5WGK45RGXGF17ATY6Q/green.svg)](https://badges.toozhao.com/stats/01GQ18FM5WGK45RGXGF17ATY6Q "Get your own page views count badge on badges.toozhao.com") -->
 <!-- ![](https://visitor-badge.glitch.me/badge?page_id=Jason-chen-coder) -->
 
