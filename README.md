@@ -60,3 +60,35 @@
 <!-- ### 📈 Activity Graph：
 
 ![](https://activity-graph.herokuapp.com/graph?username=Jason-chen-coder&theme=react-dark) -->
+#### Projects
+<p>下面是我在前端工作路上写的一些个人项目和DEMO。</p>
+<table>
+  <thead align="center">
+    <tr>
+      <th>项目</th>
+      <th>Github</th>
+      <th>简述</th>
+      <th>技术</th>
+      <th>成就</th>
+    </tr>
+  </thead>
+  <tbody align="left">
+    <tr>
+      <th>
+        <a href="https://github.yanhaixiang.com/overwatch-ui-doc/#/" target="_blank">
+        Mxgraph-EasyFlowEditor</a>
+      </th>
+      <th>
+        <a href="https://github.com/haixiangyan/overwatch-ui" target="_blank">Github</a>
+      </th>
+      <th>流程图编辑器</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/-mxgraph-%23f4c761" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/Jason-chen-coder/Mxgraph-EasyFlowEditor?style=flat-square" alt="badge">
+      </th>
+    </tr>
+  </tbody>
+</table>
