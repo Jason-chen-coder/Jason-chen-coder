@@ -102,7 +102,7 @@
       <th>D3绘制的拓扑图</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-         <img src="https://img.shields.io/badge/-d3.js-%23f5834d?style=flat-square&amp;logo=d3.js&amp;logoColor=f5834d" alt="badge">
+         <img src="https://img.shields.io/badge/-d3.js-%23f5834d?style=flat-square&amp;logo=d3&amp;logoColor=f5834d" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/D3-EasyFlowRender?style=flat-square" alt="badge">
