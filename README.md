@@ -84,7 +84,7 @@
       <th>流程图编辑器</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-        <img src="https://img.shields.io/badge/-mxgraph-%23f4c761" alt="badge">
+        <img src="https://img.shields.io/badge/-mxgraph-%23f4c761?style=flat-square&amp;logo=mxgraph&amp;logoColor=white" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Mxgraph-EasyFlowEditor?style=flat-square" alt="badge">
