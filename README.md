@@ -59,7 +59,7 @@
   <tbody align="left">
     <tr>
       <th>
-        <a href="https://github.yanhaixiang.com/overwatch-ui-doc/#/" target="_blank">
+        <a href="https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor" target="_blank">
         Mxgraph-EasyFlowEditor</a>
       </th>
       <th>
@@ -76,7 +76,7 @@
     </tr>
    <tr>
       <th>
-        <a href="https://github.yanhaixiang.com/overwatch-ui-doc/#/" target="_blank">
+        <a href="https://github.com/Jason-chen-coder/D3-EasyFlowRender" target="_blank">
          D3-EasyFlowRender
        </a>
       </th>
