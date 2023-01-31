@@ -1,10 +1,11 @@
 ### Hi there, I'm Jasonchen 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=259076&background=FF52BC00&width=610&lines=code+happily,+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=259076&background=FF52BC00&width=610&lines=code+happily,+keep+open+source,+enjoy+life." alt="Typing SVG" /></a>
 
 #### Stats
 [![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
  
+#### Visitors
 <img height="20" src="https://badges.toozhao.com/badges/01FPBS78QPRZFKQGN6WNXJK8FH/green.svg" alt="css" />
 
 <!-- ### My Stats: -->
@@ -119,7 +120,7 @@
       <th>
         <a href="https://github.com/Jason-chen-coder/Webpack5Mfp-Node-Nacos" target="_blank">Github</a>
       </th>
-      <th>Webpack5 模块联邦+Node.js+Nacos微前端实践</th>
+      <th>Webpack5模块联邦+Node.js+Nacos微前端实践</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
         <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp&logo=Node.js&amp;logoColor=ffffff" alt="badge">
