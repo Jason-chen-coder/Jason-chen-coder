@@ -119,7 +119,7 @@
       <th>
         <a href="https://github.com/Jason-chen-coder/Webpack5Mfp-Node-Nacos" target="_blank">Github</a>
       </th>
-      <th>Webpack 5 模块联邦 + Node.js+ Nacos 微前端实践</th>
+      <th>Webpack5 模块联邦+Node.js+Nacos微前端实践</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
         <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp&logo=Node.js&amp;logoColor=ffffff" alt="badge">
