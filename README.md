@@ -65,10 +65,10 @@
       <th>
         <a href="https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor" target="_blank">Github</a>
       </th>
-      <th>流程图编辑器</th>
+      <th>Mxgraph流程图编辑器</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-        <img src="https://img.shields.io/badge/mxgraph-%23f4c761?logoColor=white" alt="badge">
+        <img src="https://img.shields.io/badge/mxgraph-%23f4c761?logoColor=white&style=flat-square" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Mxgraph-EasyFlowEditor?style=flat-square" alt="badge">
@@ -90,6 +90,42 @@
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/D3-EasyFlowRender?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   <tr>
+      <th>
+        <a href="https://jason-chen-coder.github.io/JsPlumb-EasyFlowEditor/" target="_blank">
+         JsPlumb-EasyFlowEditor
+       </a>
+      </th>
+      <th>
+        <a href="https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor" target="_blank">Github</a>
+      </th>
+      <th>Jsplumb流程图绘制工具</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/-jsplumb-%230c7ebe?style=flat-square&amp;logo=D3.js&amp;logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/Jason-chen-coder/JsPlumb-EasyFlowEditor?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   <tr>
+      <th>
+        <a href="https://github.com/Jason-chen-coder/Webpack5Mfp-Node-Nacos" target="_blank">
+         Webpack5Mfp-Node-Nacos
+       </a>
+      </th>
+      <th>
+        <a href="https://github.com/Jason-chen-coder/Webpack5Mfp-Node-Nacos" target="_blank">Github</a>
+      </th>
+      <th>Webpack 5 模块联邦 + Node.js+ Nacos 微前端实践</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp&logo=Node.js&amp;logoColor=ffffff" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/Jason-chen-coder/Webpack5Mfp-Node-Nacos?style=flat-square" alt="badge">
       </th>
     </tr>
   </tbody>
