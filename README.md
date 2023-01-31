@@ -2,6 +2,9 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=259076&background=FF52BC00&width=610&lines=code+happily,+keep+open+source,+enjoy+open+source." alt="Typing SVG" /></a>
 
+#### Stats
+[![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
+ 
 <img height="20" src="https://badges.toozhao.com/badges/01FPBS78QPRZFKQGN6WNXJK8FH/green.svg" alt="css" />
 
 <!-- ### My Stats: -->
@@ -41,9 +44,6 @@
 <!-- prettier-ignore-end -->
 <!-- tools:end -->
 
-#### Stats
-[![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
- 
  #### Projects
 <p>下面是我在前端工作路上写的一些个人项目和DEMO。</p>
 <table>
