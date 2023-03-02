@@ -141,6 +141,7 @@
       <th>web导出Excel表格并带上图表</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+       <img src="https://img.shields.io/badge/xslx-chart-chart?style=flat-square&logoColor=#07c160" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Xlsx-EasyExportExcelWithChars?style=flat-square" alt="badge">
