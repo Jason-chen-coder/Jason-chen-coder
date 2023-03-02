@@ -95,6 +95,24 @@
     </tr>
    <tr>
       <th>
+        <a href="https://jason-chen-coder.github.io/Monaco-EasyCodeEditor/" target="_blank">
+         Monaco-EasyCodeEditor
+       </a>
+      </th>
+      <th>
+        <a href="https://github.com/Jason-chen-coder/Monaco-EasyCodeEditor" target="_blank">Github</a>
+      </th>
+      <th>基于Monaco设计的在线代码编辑工具</th>
+      <th>
+        <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
+        <img src="https://img.shields.io/badge/monaco-%230c7ebe?style=flat-square&logoColor=white" alt="badge">
+      </th>
+      <th>
+        <img src="https://img.shields.io/github/stars/Jason-chen-coder/Monaco-EasyCodeEditor?style=flat-square" alt="badge">
+      </th>
+    </tr>
+   <tr>
+      <th>
         <a href="https://jason-chen-coder.github.io/JsPlumb-EasyFlowEditor/" target="_blank">
          JsPlumb-EasyFlowEditor
        </a>
