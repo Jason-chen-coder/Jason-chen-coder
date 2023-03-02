@@ -138,7 +138,7 @@
       <th>
         <a href="https://github.com/Jason-chen-coder/Xlsx-EasyExportExcelWithChars" target="_blank">Github</a>
       </th>
-      <th>导出Excel表格并带上图表</th>
+      <th>web导出Excel表格并带上图表</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
       </th>
