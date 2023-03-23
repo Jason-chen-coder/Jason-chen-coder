@@ -144,7 +144,7 @@
       <th>Webpack5模块联邦+Node.js+Nacos微前端实践</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="badge">
-        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp&logo=Node.js&amp;logoColor=ffffff" alt="badge">
+        <img src="https://img.shields.io/badge/Node.js-111111?style=flat-square&amp&logo=Node.js&amp;logoColor=9be9a8" alt="badge">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Webpack5Mfp-Node-Nacos?style=flat-square" alt="badge">
