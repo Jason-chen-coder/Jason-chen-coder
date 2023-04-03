@@ -171,7 +171,7 @@
   </tbody>
 </table>
  
-![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg)
+<!-- ![](https://raw.githubusercontent.com/bilibili-ayang/bilibili-ayang/main/assets/github-contribution-grid-snake.svg) -->
 
 
 <!-- ### Top Langs:
