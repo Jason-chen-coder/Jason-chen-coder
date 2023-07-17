@@ -13,6 +13,9 @@
 
 <!-- ### My Stats: -->
 <!-- ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)(https://github.com/Jason-chen-coder) -->
+#### Learning 
+<code><img height="20" src="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcRglzwnBDunqKlVVYVxJi0rRnxEEZN4rTcmXR53PRklbxfY5lXhhGOI&usqp=CAE&s" alt="kotlin" /></code>
+
 
 #### Languages
 <!-- languages:start -->
