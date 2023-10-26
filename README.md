@@ -2,8 +2,10 @@
 
 <a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com?font=Fira+Code&pause=1000&color=259076&background=FF52BC00&width=610&lines=code+happily,+keep+open+source,+enjoy+life." alt="Typing SVG" /></a>
 
+<!-- 
 #### Profile
- ![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)
+![](https://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)
+-->
 
 #### Stats
 [![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)]([https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343))
@@ -12,7 +14,7 @@
 <img height="20" src="https://badges.toozhao.com/badges/01FPBS78QPRZFKQGN6WNXJK8FH/green.svg" alt="css" />
 
 #### QRcode
-<img width=200 src="https://raw.githubusercontent.com/Jason-chen-coder/Jason-chen-coder/main/saoma.png" alt="阿新同学">
+<img width=500 src="https://raw.githubusercontent.com/Jason-chen-coder/Jason-chen-coder/main/saoma.png" alt="阿新同学">
 
 
 
