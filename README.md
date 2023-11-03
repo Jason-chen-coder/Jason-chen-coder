@@ -17,7 +17,7 @@
 
 #### QRcode
 
-<img width=500 src="https://raw.githubusercontent.com/Jason-chen-coder/Jason-chen-coder/main/saoma.png" alt="阿新同学">
+<img width=500 src="./icons/saoma.png" alt="Loose Life">
 
 <!-- ### My Stats: -->
 <!-- ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)(https://github.com/Jason-chen-coder) -->
