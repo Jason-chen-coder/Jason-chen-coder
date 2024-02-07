@@ -25,8 +25,6 @@
 #### Learning
 
 <code><img height="20" src="./icons/kotlin.png" title="Kotlin" alt="Kotlin" /></code>
-<code><img height="20" src="./icons/flutter.svg" title="Flutter"  alt="Flutter" /></code>
-<code><img height="20" src="./icons/dart.svg" title="dart"  alt="dart" /></code>
 <code><img height="20" src="./icons/reactnative.jpg" title="ReactNative"  alt="reactNative" /></code>
 
 #### Languages
@@ -41,6 +39,9 @@
 <code><img height="20" src="./icons/html.png" title="html" alt="html" /></code>
 <code><img height="20" src="./icons/sass.png" title="sass" alt="sass" /></code>
 <code><img height="20" src="./icons/yaml.png" title="yaml" alt="yaml" /></code>
+<br><br>
+<code><img height="20" src="./icons/flutter.svg" title="Flutter"  alt="Flutter" /></code>
+<code><img height="20" src="./icons/dart.svg" title="dart"  alt="dart" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
