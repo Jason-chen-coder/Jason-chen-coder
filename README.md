@@ -34,14 +34,12 @@
 <!-- markdownlint-disable -->
 <code><img height="20" src="./icons/javascript.png" alt="javascript" /></code>
 <code><img height="20" src="./icons/typescript.png" alt="typescript" /></code>
+<code><img height="20" src="./icons/dart.svg" title="dart"  alt="dart" /></code>
 <code><img height="20" src="./icons/nodejs.png" title="nodejs" alt="nodejs" /></code>
-<code><img height="20" src="./icons/css.png" title="css" alt="css" /></code>
 <code><img height="20" src="./icons/html.png" title="html" alt="html" /></code>
+<code><img height="20" src="./icons/css.png" title="css" alt="css" /></code>
 <code><img height="20" src="./icons/sass.png" title="sass" alt="sass" /></code>
 <code><img height="20" src="./icons/yaml.png" title="yaml" alt="yaml" /></code>
-<br><br>
-<code><img height="20" src="./icons/flutter.svg" title="Flutter"  alt="Flutter" /></code>
-<code><img height="20" src="./icons/dart.svg" title="dart"  alt="dart" /></code>
 <!-- markdownlint-restore -->
 <!-- prettier-ignore-end -->
 
@@ -56,6 +54,7 @@
 <code><img height="20" src="./icons/react.png" title="react" alt="react" /></code>
 <code><img height="20" src="./icons/electron.svg" title="electron" alt="electron" /></code>
 <code><img height="20" src="./icons/uni.png" title="uni-app" alt="uni-app" /></code>
+<code><img height="20" src="./icons/flutter.svg" title="Flutter"  alt="Flutter" /></code>
 <br><br>
 <code><img height="20" src="./icons/webrtc.png" title="WebRTC"  title="WebRTC" alt="WebRTC" /></code>
 <code><img height="20" src="./icons/mediasoup.png" title="mediasoup" alt="mediasoup" /></code>
