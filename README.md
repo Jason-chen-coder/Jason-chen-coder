@@ -81,7 +81,7 @@
       <th>Github</th>
       <th>简述</th>
       <th>技术</th>
-      <th>成就</th>
+      <th>stars</th>
     </tr>
   </thead>
   <tbody align="left">
