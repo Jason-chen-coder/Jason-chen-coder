@@ -60,6 +60,7 @@
 <code><img height="20" src="./icons/mediasoup.png" title="mediasoup" alt="mediasoup" /></code>
 <br><br>
 <code><img height="20" src="./icons/docker.png" title="docker" alt="docker" /></code>
+<code><img height="20" src="./icons/nginx.png" title="nginx" alt="nginx" /></code>
 <code><img height="20" src="./icons/webpack.png" title="webpack" alt="webpack" /></code>
 <code><img height="20" src="./icons/vite.svg" title="vite" alt="vite" /></code>
 <code><img height="20" src="./icons/gulp.png" title="gulp" alt="gulp" /></code>
