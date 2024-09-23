@@ -58,6 +58,7 @@
 <br><br>
 <code><img height="20" src="./icons/webrtc.png" title="WebRTC"  title="WebRTC" alt="WebRTC" /></code>
 <code><img height="20" src="./icons/mediasoup.png" title="mediasoup" alt="mediasoup" /></code>
+<code><img height="20" src="./icons/d3.svg" title="d3.js" alt="d3.js" /></code>
 <br><br>
 <code><img height="20" src="./icons/docker.png" title="docker" alt="docker" /></code>
 <code><img height="20" src="./icons/nginx.png" title="nginx" alt="nginx" /></code>
