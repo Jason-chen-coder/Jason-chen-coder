@@ -15,9 +15,6 @@
 
 <img height="20" src="https://badges.toozhao.com/badges/01FPBS78QPRZFKQGN6WNXJK8FH/green.svg" alt="css" />
 
-#### QRcode
-
-<img width=500 src="./icons/saoma.png" alt="Loose Life">
 
 <!-- ### My Stats: -->
 <!-- ![Jason-chen-coder's github stats](https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&theme=radical)(https://github.com/Jason-chen-coder) -->
