@@ -9,7 +9,8 @@
 
 #### Stats
 
-[![Jason-chen-coder's github stats](https://github-readme-stats-gray-kappa.vercel.app/api?username=Jason-chen-coder&count_private=true&show_icons=true&theme=gotham)](<[https://www.bmpi.dev](https://blog.csdn.net/weixin_39085822?spm=1000.2115.3001.5343)>)
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=buefy&hide_border=true" /> |
+| ------------- | ------------- |
 
 #### Visitors
 
