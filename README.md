@@ -9,7 +9,7 @@
 
 #### Stats
 
-| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&include_all_commits=true&theme=buefy&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=buefy&hide_border=true" /> |
+| <img align="center" src="https://github-readme-stats.vercel.app/api?username=Jason-chen-coder&show_icons=true&include_all_commits=true&theme=shadow_green&hide_border=true" alt="Anurag's github stats" /> | <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=Jason-chen-coder&layout=compact&theme=shadow_green&hide_border=true" /> |
 | ------------- | ------------- |
 
 #### Visitors
