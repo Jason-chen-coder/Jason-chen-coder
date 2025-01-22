@@ -124,11 +124,11 @@
     <tr>
       <th>
         <a href="https://jason-chen-coder.github.io/D3-EasyFlowRender/#/treetopo" target="_blank">
-         D3-EasyFlowRender
+         Flutter-EasyFlow
        </a>
       </th>
       <th>
-        <a href="https://github.com/Jason-chen-coder/D3-EasyFlowRender" target="_blank">Github</a>
+        <a href="https://github.com/Jason-chen-coder/Flutter-EasyFlow" target="_blank">Github</a>
       </th>
       <th>Flutter流程图编辑器</th>
       <th>
