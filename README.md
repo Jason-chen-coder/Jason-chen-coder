@@ -123,7 +123,9 @@
     </tr>
     <tr>
       <th>
+        <a href="https://jason-chen-coder.github.io/Flutter-EasyFlow/" target="_blank">
          Flutter-EasyFlow
+        </a>
       </th>
       <th>
         <a href="https://github.com/Jason-chen-coder/Flutter-EasyFlow" target="_blank">Github</a>
