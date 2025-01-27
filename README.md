@@ -74,7 +74,7 @@
 
 #### Projects
 
-<p>下面是我在前端工作路上写的一些个人项目和DEMO。</p>
+<p>Here are some personal projects and DEMO</p>
 <table>
   <thead align="center">
     <tr>
