@@ -78,11 +78,11 @@
 <table>
   <thead align="center">
     <tr>
-      <th>项目</th>
+      <th>Project Name</th>
       <th>Github</th>
-      <th>简述</th>
-      <th>技术</th>
-      <th>stars</th>
+      <th>Description</th>
+      <th>Tech Stack</th>
+      <th>Stars</th>
     </tr>
   </thead>
   <tbody align="left">
