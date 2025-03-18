@@ -1,6 +1,6 @@
 ### Hi there, I'm Jasonchen 👋
 
-<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6fe5ac&background=FF52BC00&width=610&lines=code+happily,+keep+open+source,+enjoy+life." alt="Typing SVG" /></a>
+<a href="https://git.io/typing-svg"><img src="https://readme-typing-svg.demolab.com/?font=Fira+Code&pause=1000&color=6fe5ac&background=FF52BC00&width=610&lines=Code+happily,+embrace+open+source,+and+enjoy+life." alt="Typing SVG" /></a>
 
 <!--
 #### Profile
