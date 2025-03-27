@@ -78,7 +78,7 @@
 <table>
   <thead align="center">
     <tr>
-      <th>Project Name</th>
+      <th>Project Name(Preview Page)</th>
       <th>Github</th>
       <th>Description</th>
       <th>Tech Stack</th>
