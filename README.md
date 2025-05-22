@@ -95,7 +95,7 @@
       <th>
         <a href="https://github.com/Jason-chen-coder/Flutter-EasySpeechRecognition" target="_blank">Github</a>
       </th>
-      <th>Flutter离线语音识别</th>
+      <th>基于Sherpa-ONNX实现在线下载模型的端侧实时语音识别应用</th>
       <th>
         <img src="https://img.shields.io/badge/flutter-5ab2ef?style=flat-square&amp;logo=flutter&amp;logoColor=5ab2ef" alt="Flutter">
         <img src="https://img.shields.io/badge/dart-245697?style=flat-square&amp;logo=dart&amp;logoColor=5ab2ef" alt="Dart">
