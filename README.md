@@ -101,7 +101,7 @@
         <img src="https://img.shields.io/badge/dart-245697?style=flat-square&amp;logo=dart&amp;logoColor=5ab2ef" alt="Dart">
       </th>
       <th>
-        <img src="https://github.com/Jason-chen-coder/Flutter-EasySpeechRecognition?style=flat-square" alt="Flutter-EasyFlow">
+         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Flutter-EasySpeechRecognition?style=flat-square" alt="badge">
       </th>
     </tr>
      <tr>
