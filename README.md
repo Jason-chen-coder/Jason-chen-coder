@@ -97,8 +97,8 @@
       </th>
       <th>基于Sherpa-ONNX实现在线下载模型的端侧实时语音识别应用</th>
       <th>
-        <img src="https://img.shields.io/badge/flutter-5ab2ef?style=flat-square&amp;logo=flutter&amp;logoColor=5ab2ef" alt="Flutter">
-        <img src="https://img.shields.io/badge/dart-245697?style=flat-square&amp;logo=dart&amp;logoColor=5ab2ef" alt="Dart">
+        <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=5ab2ef" alt="Flutter">
+        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
       </th>
       <th>
          <img src="https://img.shields.io/github/stars/Jason-chen-coder/Flutter-EasySpeechRecognition?style=flat-square" alt="badge">
@@ -115,8 +115,8 @@
       </th>
       <th>Flutter流程图编辑器</th>
       <th>
-        <img src="https://img.shields.io/badge/flutter-5ab2ef?style=flat-square&amp;logo=flutter&amp;logoColor=5ab2ef" alt="Flutter">
-        <img src="https://img.shields.io/badge/dart-245697?style=flat-square&amp;logo=dart&amp;logoColor=5ab2ef" alt="Dart">
+        <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=5ab2ef" alt="Flutter">
+        <img src="https://img.shields.io/badge/Dart-0175C2?logo=dart&logoColor=white" alt="Dart">
       </th>
       <th>
         <img src="https://img.shields.io/github/stars/Jason-chen-coder/Flutter-EasyFlow?style=flat-square" alt="Flutter-EasyFlow">
