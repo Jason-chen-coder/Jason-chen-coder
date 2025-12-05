@@ -79,7 +79,6 @@
   <thead align="center">
     <tr>
       <th>Project Name(Preview Page)</th>
-      <th>Github</th>
       <th>Description</th>
       <th>Tech Stack</th>
       <th>Stars</th>
@@ -91,9 +90,6 @@
         <a href="https://github.com/Jason-chen-coder/Flutter-EasySpeechRecognition" target="_blank">
          Flutter-EasySpeechRecognition
         </a>
-      </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Flutter-EasySpeechRecognition" target="_blank">Github</a>
       </th>
       <th>基于Sherpa-ONNX实现在线下载模型的端侧实时语音识别应用</th>
       <th>
@@ -110,9 +106,6 @@
          Flutter-EasyFlow
         </a>
       </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Flutter-EasyFlow" target="_blank">Github</a>
-      </th>
       <th>Flutter流程图编辑器</th>
       <th>
         <img src="https://img.shields.io/badge/flutter-02569B?logo=flutter&logoColor=5ab2ef" alt="Flutter">
@@ -126,9 +119,6 @@
       <th>
         <a href="https://jason-chen-coder.github.io/Mxgraph-EasyFlowEditor/#/" target="_blank">
         Mxgraph-EasyFlowEditor</a>
-      </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Mxgraph-EasyFlowEditor" target="_blank">Github</a>
       </th>
       <th>Mxgraph流程图编辑器</th>
       <th>
@@ -145,9 +135,6 @@
          D3-EasyFlowRender
        </a>
       </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/D3-EasyFlowRender" target="_blank">Github</a>
-      </th>
       <th>D3绘制的拓扑图</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="vue.js">
@@ -162,9 +149,6 @@
         <a href="https://jason-chen-coder.github.io/Monaco-EasyCodeEditor/" target="_blank">
          Monaco-EasyCodeEditor
        </a>
-      </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Monaco-EasyCodeEditor" target="_blank">Github</a>
       </th>
       <th>基于Monaco设计的在线代码编辑工具</th>
       <th>
@@ -181,9 +165,6 @@
          JsPlumb-EasyFlowEditor
        </a>
       </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/JsPlumb-EasyFlowEditor" target="_blank">Github</a>
-      </th>
       <th>Jsplumb流程图绘制工具</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="vue.js">
@@ -199,9 +180,6 @@
          Webpack5Mfp-Node-Nacos
        </a>
       </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Webpack5Mfp-Node-Nacos" target="_blank">Github</a>
-      </th>
       <th>Webpack5模块联邦+Node.js+Nacos微前端实践</th>
       <th>
         <img src="https://img.shields.io/badge/Vue.js-35495E?style=flat-square&amp;logo=vue.js&amp;logoColor=4FC08" alt="vue.js">
@@ -216,9 +194,6 @@
         <a href="https://jason-chen-coder.github.io/Xlsx-EasyExportExcelWithChars" target="_blank">
          Xlsx-EasyExportExcelWithChars
        </a>
-      </th>
-      <th>
-        <a href="https://github.com/Jason-chen-coder/Xlsx-EasyExportExcelWithChars" target="_blank">Github</a>
       </th>
       <th>web导出Excel表格并带上图表</th>
       <th>
